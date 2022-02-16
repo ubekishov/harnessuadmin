@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:iqTVlyUER7yRUqO3Z6sNRQ
+url: https://github.com/sravank69/harnessdemo.git
+urlType: REPO
+username: sravank69

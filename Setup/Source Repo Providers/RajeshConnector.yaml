@@ -1,0 +1,11 @@
+harnessApiVersion: '1.0'
+type: GIT
+authorEmailId: surajiz2021@gmail.com
+authorName: Rajesh Vasan
+branch: master
+commitMessage: my commit first time ???
+keyAuth: false
+password: safeharness:wr1ndt2MQHy4My--hy8GVw
+url: https://github.com/rajeshvasan2020/adminLab
+urlType: REPO
+username: surajiz2021@gmail.com

@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:A27lq9yBQuy9Se-jUAlekA
+url: https://github.com/ubekishov/harnessuadmin.git
+urlType: REPO
+username: git

@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:gf2QQIzPTvKMhcNUrY5ieg
+url: https://github.com/kurtastbury/adminlab
+urlType: REPO
+username: git

@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:aIld1zt8RmmDBzfp8n-UdA
+url: https://github.com/jjhamer/adminlab.git
+urlType: REPO
+username: git
